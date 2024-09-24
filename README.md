@@ -1,7 +1,3 @@
-echo "# Otra-Prueba" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:aleconsta/Otra-Prueba.git
-git push -u origin main
+Profesor: Alejandro Constanzo
+División: 312
+Turno: Noche
