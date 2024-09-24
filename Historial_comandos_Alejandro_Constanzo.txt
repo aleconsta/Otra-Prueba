@@ -1,0 +1,1137 @@
+pwd
+ssh-keygen
+ll
+cat $HOME/.ssh/*.pub
+cd ..
+pwd
+mkdir repogit
+cd ..
+pwd
+cd home/
+pwd
+ll
+cd vagrant/
+ll
+cd ..
+mkdir repogit
+sudo mkdir repogit
+cd repogit/
+cd ..
+ll
+cd repogit/
+ll
+pwd
+git clone git@github.com:aleconsta/TP_AySO.git
+sudo git clone git@github.com:aleconsta/TP_AySO.git
+ll
+ls -la
+sudo git clone git@github.com:aleconsta/TP_AySO.git
+ll
+ls -la
+sudo ls -la
+git clone git@github.com:aleconsta/TP_AySO.git
+cd ..
+cd home/
+cd vagrant/
+ll
+cd repogit/
+git clone git@github.com:aleconsta/TP_AySO.git
+ll
+cd TP_AySO/
+ll
+ls -l
+cat /etc/os-release 
+man grep
+cd ..
+grep -i tp_ayso
+cat TP_AySO
+cat > TP_AySO
+ll
+cd TP_AySO/
+ll
+cat > TP_AySO
+cat TP_AySO 
+grep -i
+grep -i t
+cat TP_AySO 
+cat t
+cd ..
+grep -i cd tp_ayso
+cd TP_AySO/
+cd ..
+cd tp_ayso grep -i
+grep HOME_URL /etc/os-release 
+grep home_url /etc/os-release 
+pwd
+ll
+grep -i Home_url /etc/os-release 
+whoami
+id -un
+id
+echo "Ususrio=$(whoami)">datos_usuario.txt
+ll
+cat datos_usuario.txt 
+git sytatus
+git status
+cd TP_AySO/
+ll
+ls
+cat TP_AySO 
+echo "Usuario=$(whoami)">datos_usuario.txt
+ll
+git status
+git add .
+git status
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git config --global user.email "a.constanzo@sistemas-utnfra.com.ar.com"
+git config --global user.name "aleconsta"
+git status
+git commit -m "ADD:agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt 
+ll
+cat datos_usuario.txt 
+git status
+git add .
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git status
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git status
+msn grep
+man grep
+man sort via a key
+grep -v nologin /etc/passwd > lista_ordenada
+ll
+cat lista_ordenada 
+sort lista_ordenada  -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada
+ll
+cat lista_ordenada 
+git status
+git add .
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+apropos "dump traffic"
+tcpdump
+sudo apropos "dump traffic"
+tcpdump
+apropos "dump traffic" > comando_dump_net
+echo apropos "dump traffic" >> comando_dump_net
+ll
+git status
+cat comando_dump_net 
+sudo tcpdump port 443
+cat comando_dump_net 
+git status
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git status
+ll
+cat << FIN >> README.md
+ll
+
+ll
+git status
+ll
+git status
+history -a \$HOME/.bash_history
+history -a $HOME/.bash_history
+ll
+ls -la
+ls -la $HOME
+cp $HOME/.bash_history Historial_comandos.txt
+ls -la $HOME
+git status
+git add .
+git commit -m "ADD:Agrego el historial_comandos"
+git status
+git push
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+echo "tcpdump" > comando_dump_net
+echo "which tcpdump" >> comando_dump_net
+ll
+git status
+git add .
+git status
+git commit -m "modificon acrchivo comando_dump_net"
+git status
+git push
+pwd
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cd ..
+git clone git@github.com:aleconsta/TP_AySO.git
+ll
+git pull git@github.com:aleconsta/TP_AySO.git
+git pull
+git pull origin master
+cd TP_AySO/
+git pull
+ll
+cat << END >> README.md 
+Alumno: Alejandro Constanzo
+División: 312
+Turno: Noche
+END
+
+git status
+cat README.md 
+git add .
+git commit -m "Agrego nombre y apellido al README"
+git push
+git pull
+cat README.md 
+pwd
+compgen -c
+man -k
+help
+apt -h
+tree -h
+man tree
+tree man
+ls man
+man ls
+ls -h
+ls help
+ls --h
+ls --help
+clear
+ls --help
+man ls
+ll
+vagrant halt
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cat comando_dump_net 
+cat lista_ordenada 
+cat Historial_comandos.txt 
+cat README.md 
+cat > README.md 
+cat README.md 
+git status
+git add .
+git commit -m "modifique alumno x profesor"
+git push
+cd ..
+cd /
+ll
+pwd
+whoami
+journalctl -k
+sudo  journalctl -k
+journalctl -fk | grep -i nic
+sudo journalctl -fk | grep -i nic
+ll
+cd ..
+cd home/
+ll
+cd vagrant/
+journalctl -fk | grep -i nic
+sudo journalctl -fk | grep -i nic
+ddddd sudo journalctl -fk | grep -i nic
+sudo journalctl -fk | grep -i nic
+history
+ls man
+cd home/
+ll
+cd carpeta_compartida/
+ll
+history
+cd ..
+ll
+hstory > historial.txt
+history > historial.txt
+ll
+cd historial.txt /home/vagrant/carpeta_compartida/
+cp historial.txt /home/vagrant/carpeta_compartida/
+cd carpeta_compartida/
+ll
+vim historial.txt 
+cat historial.txt 
+vim ejecutable.sh
+ll
+./ejecutable.sh 
+cat ejecutable.sh 
+./ejecutable.sh 
+vim historial.txt 
+./ejecutable.sh 
+pwd
+ls
+ll
+man man
+man ls
+ll
+wc README 
+cat README 
+more README 
+man more
+more -help
+more historial.txt 
+cat historial.txt 
+cat README 
+cat historial.txt 
+more historial.txt 
+pwd
+whoami
+ls
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cat TP_AySO 
+cat >> TP_AySO 
+cat TP_AySO 
+mkdir -p {dir1,dir2}/subdir{1..3}
+ls
+ll
+tree
+sudo apt update && sudo apt install tree -y
+tree
+rm dir1
+rm -r dir1
+tree
+rm -r dir2
+tree
+mkdir -p {dir1,dir2}/subdir{1...3}
+tree
+rm -r dir2
+rm -r dir1
+tree
+mkdir -p {dir1/subdir{1..3},dir2/{subdir{1..3}.otrodir}}
+tree
+rm -r dir1
+tree
+rm -r dir2
+mkdir -p {dir1/subdir{1..3},dir2/{subdir{1..3},otrodir}}
+tree
+rm -r dir2
+rm -r dir1
+tree
+git status
+cd ..
+git status
+ll
+cd TP_AySO/
+ll
+git status
+git add .
+git status
+git commit -m "agregue historial"
+git push
+cd ..
+ll
+cd ..
+ll
+history >> historial.txt 
+git status
+cat historial.txt 
+git status
+cd ..
+git status
+ll
+cd repogit/
+ls
+ll
+git status
+pwd
+cd /
+ll
+cd home/
+ll
+cd vagrant/
+ll
+git status
+cd repogit/
+git status
+cd repogit
+sudo cd repogit
+ll
+cd TP_AySO/
+ll
+cd ..
+ll
+cd ..
+ll
+cat historial.txt 
+ll
+cd carpeta_compartida/
+ll
+cd vagrant
+git clone
+ll
+touch archivo1.txt
+ll
+cd ,,
+cd ..
+ll
+cat historial.txt 
+ls
+cp historial.txt /carpeta_compartida
+sudo cp historial.txt /carpeta_compartida
+cd carpeta_compartida/
+ll
+ls -la
+cd ..
+ll
+cd carpeta_compartida/
+ls
+ll
+wc -1 < /etc/passwd
+wc -help
+wc help
+cd ..
+wc help
+wc -help
+man wc
+pwd
+cp historial.txt /carpeta_compartida 
+ll
+ls
+vim historial.txt 
+cd repogit/
+ll
+cd TP_AySO/
+ll
+git status
+cd ..
+git status
+cd ..
+git status
+cd ..
+git status
+cd ..
+ll
+ls
+cd ..
+ls
+pwd
+cd home/
+ll
+cd repogit/
+ll
+cd ..
+cd vagrant/
+ll
+cd carpeta_compartida/
+ll
+ls
+vim archivo1.txt 
+cat archivo1.txt 
+git status
+cd ..
+git status
+ll
+cd ..
+ll
+cd vagrant/
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+git status
+vim datos_usuario.txt 
+git status
+git add .
+git commit -m "agregue cosas al datos_usuario"
+git push
+cd..
+cd ..
+ll
+history >> historial.txt 
+cat historial.txt 
+ll
+cp historial.txt carpeta_compartida/
+wpd
+whoami
+ls
+ll
+ls -l
+pwd
+vim holaVim.sh
+ls
+ll
+bash hbash holaVim.sh 
+pwd
+tree
+cd
+ll
+lcd /
+cd \
+ll
+cd ..
+ll
+cd home/
+ll
+cd vagrant/
+bash holaVim.sh 
+cd Ull
+ll
+cd repogit/
+ll
+cd UTN-FRA_SO_onBording/
+ll
+cd ..
+bash holaVim.sh 
+grep proyectoWeb
+ll
+cat holaVim.sh 
+cat readme.txt 
+ll
+cd proyectoWeb/
+ll
+ls
+ls -s
+ll
+cd ..
+mkdir -r proyectoWeb/
+mkdir  proyectoWeb/
+rm proyectoWeb/
+rm -r proyectoWeb/
+ll
+rm rerm readme.txt 
+ll
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+cat readme.txt 
+cd proyectoWeb/
+ll
+tree
+cd ..
+vim holaVim.sh 
+rmdir proyectoWeb/
+rm readme.txt 
+bash holaVim.sh 
+ll
+cd ejemploB/
+ll
+cat readme.txt 
+cd ..
+rmdir ejemploB/
+rmdir -r ejemploB/
+ll
+rm -r ejemploB/
+ll
+vim holaVim.sh 
+ll
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+cd ejemploB/
+ll
+cd papa/
+ll
+cd r
+cat resultado.txt 
+cd ..
+git status
+ll
+cd repogit/
+ll
+cat datos_usuario.txt 
+echo "agrego linea" >> datos_usuario.txt 
+cat datos_usuario.txt 
+git status
+cd TP_AySO/
+ll
+cd ..
+ll
+cd UTN-FRA_SO_onBording/
+ll
+cd ..
+ll
+cd repogit/
+ll
+cd ..
+ll
+cd carpeta_compartida/
+ll
+cd v
+cd ..
+ll
+cd ..
+ll
+cd ubuntu/
+sudo cd ubuntu/
+sudo su
+ll
+cd repogit/
+ll
+cd ..
+ll
+cd ..
+ll
+cd /
+cd ll
+pwd
+ll
+cd root
+sudo cd root
+sudo su cd root
+sudo su
+ll
+cd home/
+cd vagrant/
+ll
+cd ..
+ll
+cd ..
+cd vagrant
+cd var/
+ll
+pwd
+cd ..
+cd home/
+cd vagrant/
+ll
+cd ..
+ll
+cd ..
+ll
+cd home/
+cd vagrant/
+ll
+cd carpeta_compartida/
+ll
+cd ..
+cd h
+ll
+cd repogit/
+ll
+git status
+cd ..
+vim holaVim.sh 
+bash holaVim.sh 
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+cd repogit/
+ll
+cd UTN-FRA_SO_onBording/
+ll
+git status
+cd ..
+cd repogit/
+ll
+cd ..
+ll
+vim holaVim.sh 
+pwd
+whoami
+ll
+ls -l
+cd repogit/
+ll
+cd TP_AySO/
+ll
+git status
+cd ..
+ll
+cat ejemploB/
+cd ejemploB/
+ll
+cd papa/
+ll
+cat resultado.txt 
+cd ..
+ll
+vim holaVim.sh 
+cd r
+cd repogit/
+cd TP_AySO/
+ll
+cd ..
+bash holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+git status
+cd ..
+ll
+vim holaVim.sh 
+pwd
+vim holaVim.sh 
+bash holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+pwd
+cd ..
+vim holaVim.sh 
+bash holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+git status
+cd ..
+vim holaVim.sh 
+bash holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+cd ejemploB/
+ll
+cd p
+cd papa/
+ll
+cd ..
+ll
+cd ..
+ll
+cd ..
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+rm -r ejemploB/
+ll
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cd ejemploB/
+ll
+cd ..
+rm -r ejemploB/
+ll
+cd ejemploB/
+ll
+cd ..
+rm -r ejemploB/
+ll
+git status
+cd ejemploB/
+git status
+cd ..
+rmdir ejemploB/
+rmdir -r ejemploB/
+rm -r ejemploB/
+ll
+rm -r ejemploB/
+ll
+cd ejemploB/
+ll
+rm -r mama/
+sudo rm -r mama/
+ll
+cd ..
+sudo rm -r ejemploB/
+ll
+cd ..
+ll
+vim hol
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+cd repogit/
+cd TP_AySO/
+ll
+cd ejemploB/
+ll
+cd mama/
+ll
+cd ..
+cd papa/
+ll
+cd ..
+cd tio/
+ll
+cd sobrino/
+ll
+cd ..
+ll
+cd ..
+vim holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+cd ejemploB/
+ll
+rm -r mama/
+sudo rm -r mama/
+sudo rm -r papa/
+sudo rm -r tio/
+ll
+cd ..
+ll
+rm -r ejemploB/
+sudo rm -r ejemploB/
+ll
+cd ..
+ll
+bash holaVim.sh 
+vim holaVim.sh 
+cd ..
+cd vagrant/
+cd repogit/
+cd TP_AySO/
+ll
+sudo rm -r ejemploB/
+ll
+cd ..
+ll
+vim holaVim.sh 
+bash holaVim.sh 
+cd repogit/
+cd TP_AySO/
+ll
+cd ..
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+vim holaVim.sh 
+ll
+bash holaVim.sh 
+ll
+cd repogit/
+cd TP_AySO/
+ll
+cd ..
+ll
+vim holaVim.sh 
+pwd
+vim holaVim.sh 
+bash holaVim.sh 
+ll
+cd ejemploB/j
+cd ejemploB/
+ll
+cdm
+cd mama/
+ll
+cd ..
+cd papa/
+ll
+cat resultado.txt 
+cd ..
+cd tio/
+ll
+cd sobrino/
+ll
+cd ..
+ll
+cat readme.txt 
+cd ..
+ll
+cp ejemploB /repogit/TP_AySO/
+cp -r ejemploB/ /repogit/TP_AySO/
+cp -r /home/vagrant/ejemploB/ /home/vagrant/repogit/TP_AySO/
+cd repogit/
+cd TP_AySO/
+ll
+git status
+cd ejemploB/j
+cd ejemploB/
+ll
+git status
+cd ..
+git status
+git add .
+git commit -m "agrego ejemplo8"
+git push
+ll
+cd ejemploB/
+ll
+tree
+cs tio/
+cd tio/
+ll
+cd sobrino/
+ll
+cd ..
+vim holaVim.sh 
+ll
+mkdir -p simetrico {{papa,mama}/{1..5},tio/sobrino}
+cd simetrico/
+tree
+ll
+cd ..
+vim holaVim.sh 
+rm simetrico/
+rmdir simetrico/
+ll
+mkdir -p simetrico/{{papa,mama}/hijos{1..9},tio/sobrino}
+cd simetrico/
+ll
+tree
+cd ..
+ll
+head /proc/cpuinfo echo
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt 
+rm datos_usuario.txt 
+cat datos_usuario.txt 
+/proc/cpuinfo | grep "model name" >> datos_usuario.txt
+sudo /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+ll
+cat datos_usuario.txt 
+rm datos_usuario.txt 
+ll
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt 
+head --help
+rm datos_usuario.txt 
+cat /proc/cpuinfo | grep "model name" >> datos_usuario.txt
+cat datos_usuario.txt 
+echo /proc/cpuinfo 
+cat /proc/cpuinfo 
+cat datos_usuario.txt 
+cd
+ll
+pwd
+cd ..
+cd $
+cd HOME
+cd $home
+ll
+pwd
+whoami
+/
+pwd
+cd
+cd /
+pwd
+cd $home
+pwd
+cd ..
+ll
+sudo su
+ll
+cd vagrant/
+ll
+cd..
+cd ..
+ll
+exit
+ll
+pwd
+whoami
+ssh-keygen
+ll
+pwd
+cd $HOME
+pwd
+cd /
+ll
+cd home/
+ll
+cat \$HOME/
+cat \$HOME/.ssh/*.pub
+cd ..
+cat \$HOME/.ssh/*.pub
+cd $HOME
+cat \$HOME/.ssh/*.pub
+cat $HOME/.ssh/*pub
+ll
+clear
+ssh-keygen
+ls
+la -la
+ll
+clear
+cat .ssh/*pub
+cat $HOME/.ssh/*pub
+ll
+cd r
+cd repogit/
+ll
+cd TP_AySO/
+ll
+cd ejemploB/
+cd ..
+mkdir repositorio
+ll
+cd repositorio/
+git clone git@github.com:aleconsta/Otra-Prueba.git
+ll
+cd Otra-Prueba/
+ll
+cat README.md 
+ll
+clear
+cd ..
+ll
+cd Otra-Prueba/
+cat /etc/os-release 
+man grep
+grep HOME_URL /etc/os-release
+man grep
+cat /etc/os-release 
+grep home_url /etc/os-release
+clear
+grep -i home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+ll
+git status
+git add .
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+ll
+cat datos_usuario.txt 
+git push
+git status
+head /proc/cpuinfo | grep "model name" >> datos_usuario.txt 
+cat datos_usuario.txt 
+echo | cat /proc/cpuinfo | grep "model name” 
+cat datos_usuario.txt 
+cat /proc/cpuinfo | grep "model name” > echo
+cat datos_usuario.txt 
+cat /proc/cpuinfo | grep "model name” 
+head /proc/cpuinfo | grep "model name” 
+cat /proc/cpuinfo 
+cat /proc/cpuinfo | grep "model name"
+grep -v nologin /etc/passwd > lista_ordenada
+sort lista_ordenada  -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > 
+ll
+cat lista_ordenada 
+man grep
+ll
+rm lista_ordenada 
+ll
+grep -v nologin /etc/passwd > lista_ordenada.txt
+sort lista_ordenada.txt  -t":" -k7
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada.txt
+ll
+cat lista_ordenada.txt 
+rm lista_ordenada.txt 
+ll
+grep -v nologin /etc/passwd > lista_ordenada.txt
+cat lista_ordenada.txt 
+rm lista_ordenada.txt 
+ll
+grep -v nologin /etc/passwd | cat
+cd ..
+grep -v nologin /etc/passwd | cat
+cd ..
+grep -v nologin /etc/passwd | cat
+cat etc/passwd
+pwd
+sudo cat etc/passwd
+ll
+cd /
+cat /etc/passwd
+cd $HOME
+ll
+cd repositorio/
+ll
+cd Otra-Prueba/
+ll
+cd ..
+grep -v nologin /etc/passwd | cat
+sort --help
+qll
+ll
+cd Otra-Prueba/
+ll
+cat datos_usuario.txt 
+cd ..
+ll
+cd Otra-Prueba/
+man sort
+cd ..
+cd /
+/etc/passwd
+cat /etc/passwd
+cd $HOME
+cd repositorio/
+cd Otra-Prueba/
+ll
+grep -v nologin /etc/passwd | sort -t":" -k7 > lista_ordenada.txt
+ll
+cat lista_ordenada.txt 
+git status
+cat datos_usuario.txt 
+git add .
+cat datos_usuario.txt 
+git status
+git commit -m “ADD: Listado de usuarios ordenada”
+git status
+git add .
+git status
+git commit -m “ADD: Listado de usuarios ordenada”
+git push
+git status
+ll
+cat lista_ordenada.txt 
+cat datos_usuario.txt 
+git status
+git commit -m "subo"
+git status
+apropos "dump traffic"
+tcpdump
+man apropos
+apropos dump traffic
+apropos -help
+apropos --help
+apropos dump traffic
+apropos "dump traffic"
+apropos "dump traffic" > comando_dump_net
+echo apropos "dump traffic" >> comando_dump_net
+ll
+cat comando_dump_net 
+git status
+git add .
+git status
+git commit -m “ADD: Comando para Capturar y analizar el tráfico de red ”
+git commit -m "ADD: Comando para capturar y analizar el trafico de red"
+git status
+[200~cat << END >> README.md 
+Alumno: Alejandro Constanzo
+División: 312
+Turno: Noche
+END
+
+~ll
+ll
+cat README.md 
+cat > README.md 
+cat README.md 
+cat << END >> README.md 
+Profesor: Alejandro Constanzo
+División: 312
+Turno: Noche
+END
+
+cat README.md 
+git status
+git add .
+git status
+git commit -m "Mod:agregado de datos personales"
+git status
+man append
+append -help
+pwd
+cd $HOME
+pwd
+ll
+cat .bass_history
+sudo cat .bash_history 
+man history
+history --help
+cd repositorio/
+cd Otra-Prueba/
+history -a \$HOME/.bash_history 
+history -a $HOME/.bash_history 
+ll
+cat comando_dump_net 
+cat datos_usuario.txt 
+cat history
+cat $HOME/.bash_history
+history -a $HOME/.bash_history
